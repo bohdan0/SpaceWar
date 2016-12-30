@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Russo+One');
+
+body {
+  background-image: url('../background.png');
+  background-size: cover;
+}
+
+#game-canvas {
+  border-radius: 30px;
+  position: absolute;;
+  top: 50%;
+  left: 50%;
+  margin-top: -400px;
+  margin-left: -300px;
+}
