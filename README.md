@@ -12,6 +12,13 @@ There is score counter, It counts health of destroyed enemies. I used App Academ
 
 I used canvas with transparent background plus cool background. For effects and bullets I used sprite sheets.
 
+## MVP
+
+- [x] ship, can move and shoot
+- [x] enemies, are moving and shooting
+- [x] levels, lives and score
+- [x] game over and restart
+
 ## Future Plans: 
 
 - [ ] change start screen (how to play with icons) [DAY 1]
