@@ -1,6 +1,6 @@
 # Space War
 
-## Play [Space War](https://asteroids0.herokuapp.com "Space War")
+## Play [Space War](https://spacewar0.herokuapp.com "Space War")
 
 Space War is example of Space Shooter games. It's single player game, where player drives space ship and shoots enemies. 
 
@@ -33,11 +33,11 @@ I used canvas with transparent background plus cool background. For effects and 
 
 ## Start Screen
 
-![screenshot](http://res.cloudinary.com/safenotes/image/upload/v1485065104/Screen_Shot_2017-01-21_at_10.02.27_PM_pp5q6a.png)
+![screenshot](http://res.cloudinary.com/safenotes/image/upload/v1485240329/Screen_Shot_2017-01-23_at_10.43.59_PM_tjzpuz.png)
 
 ## Gameplay
 
-![screenshot](http://res.cloudinary.com/safenotes/image/upload/v1485065125/Screen_Shot_2017-01-21_at_10.02.45_PM_e9mqof.png)
+![screenshot](http://res.cloudinary.com/safenotes/image/upload/v1485240344/Screen_Shot_2017-01-23_at_10.44.11_PM_dmt2od.png)
 
 ## Game Over
 
