@@ -5,6 +5,37 @@ body {
   background-size: cover;
 }
 
+img, button {
+  width: 50px;
+  display: block;
+  float: right;
+  clear: right;
+  margin: 20px 30px;
+}
+
+img:hover {
+  transform: scale(1.2);
+  cursor: pointer;
+}
+
+button {
+  font-family: 'Russo One';
+  font-size: 12px;
+  border: 1px solid black;
+  background: white;
+  height: 50px;
+  border-radius: 25px;
+}
+
+button:hover {
+  transform: scale(1.2);
+  cursor: pointer;
+}
+
+button:focus {
+  outline-style: none;
+}
+
 #game-canvas {
   position: absolute;
   top: 50%;
