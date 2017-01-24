@@ -6,10 +6,10 @@ body {
 }
 
 #game-canvas {
-  border-radius: 30px;
-  position: absolute;;
+  position: absolute;
   top: 50%;
   left: 50%;
   margin-top: -400px;
   margin-left: -300px;
+
 }
