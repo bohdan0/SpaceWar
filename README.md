@@ -21,7 +21,7 @@ I used canvas with transparent background plus cool background. For effects and 
 
 ## Future Plans: 
 
-- [ ] change start screen (how to play with icons) [DAY 1]
+- [x] change start screen (how to play with icons) [DAY 1]
 - [ ] change enemies movement logic [DAY 2]
 - [ ] add audio effects [DAY 3]
 - [ ] change lives amount to ship icons [DAY 4]
