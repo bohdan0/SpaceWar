@@ -6,7 +6,7 @@
 
 Space War is example of Space Shooter games. It's single player game, where player drives space ship and shoots enemies. 
 
-Player has 5 lives at beginning, It decreases each time player's ship is destroyed by enemy and when there are no lives game is over. 
+Player has 5 lives at beginning, It decreases each time player's ship is destroyed. When there are no lives game is over. 
 
 I implemented 10 levels in this game with unique enemies. After 10th level enemies repeat. On each next level enemies have more health than previous, so It's harder to destroy all of them. 
 
@@ -30,7 +30,7 @@ I used canvas with transparent background plus cool background. For effects and 
      └─ Star
 ```
 
-**Game** class holds game state and handles moving logic for each object on the screen. There are 4 different types of moving objects: player ship, enemy ship, bullet and star. For dynamic gameplay I used HTML canvas element and JavaScript audio objects.
+**Game** class holds game state and handles moving logic for each object on the screen. There are 4 different types of moving objects: player ship, enemy ship, bullet and star. For dynamic gameplay I used HTML canvas element and JavaScript Audio objects.
 
 **GameView** class is responsible for game animation and listening for user input. For re-drawing objects I used `window.requestAnimationFrame()` function, which renders each object about 60 times per second.
 
