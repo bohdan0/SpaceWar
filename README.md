@@ -22,10 +22,9 @@ I used canvas with transparent background plus cool background. For effects and 
 ## Future Plans: 
 
 - [x] change start screen (how to play with icons) [DAY 1]
-- [ ] change enemies movement logic [DAY 2]
+- [x] change enemies movement logic [DAY 2]
 - [x] add audio effects [DAY 3]
 - [x] change lives amount to ship icons [DAY 4]
-- [ ] do something with the stars (get rid or expand for whole screen) [DAY 4]
 
 # Bonus:
 
