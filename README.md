@@ -1,6 +1,6 @@
 # Space War
 
-## Play [Space War](https://spacewar0.herokuapp.com "Space War")
+## Play [Space War](https://bohdan0.github.io/SpaceWar "Space War")
 
 ![screenshot](http://res.cloudinary.com/safenotes/image/upload/v1485313063/Screen_Shot_2017-01-24_at_6.56.20_PM_hz5puq.png)
 
