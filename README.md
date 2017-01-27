@@ -158,12 +158,12 @@ I used transparent canvas element plus cool background. For effects and bullets 
   }
 ```
 
-## MVP Features
+## Features
 
-- [x] ship, can move and shoot
-- [x] enemies, are moving and shooting
-- [x] levels, lives and score
-- [x] game over and restart
+- ship, can move and shoot
+- enemies, are moving and shooting
+- levels, lives and score
+- game over and restart
 
 ## Future implementations
 
